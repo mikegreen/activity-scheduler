@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Mountain Hike",
+        "difficulty": "Hard",
+        "mobility_challenged_friendly": "no",
+        "duration_minutes": 180,
+        "max_people": 3,
+        "location": "80304"
+    },
+    {
+        "name": "Denver Art Museum Museum Visit",
+        "difficulty": "Easy",
+        "mobility_challenged_friendly": "yes",
+        "duration_minutes": 120,
+        "max_people": 6,
+        "location": "80303"
+    },
+    {
+        "name": "Cooking Class",
+        "difficulty": "Medium",
+        "mobility_challenged_friendly": "yes",
+        "duration_minutes": 120,
+        "max_people": 4,
+        "location": "80027"
+    },
+    {
+        "name": "Bowlero Bowling",
+        "difficulty": "medium",
+        "mobility_challenged_friendly": "yes",
+        "duration_minutes": 90,
+        "max_people": 4,
+        "location": "80026"
+    },
+    {
+        "name": "Tye dye",
+        "difficulty": "Easy",
+        "mobility_challenged_friendly": "yes",
+        "duration_minutes": 120,
+        "max_people": 4,
+        "location": "80027"
+    },
+    {
+        "name": "Anythink Library",
+        "difficulty": "Easy",
+        "mobility_challenged_friendly": "yes",
+        "duration_minutes": 120,
+        "max_people": 6,
+        "location": "80026"
+    },
+    {
+        "name": "Wings Over the Rockies Museum",
+        "difficulty": "Easy",
+        "mobility_challenged_friendly": "yes",
+        "duration_minutes": 120,
+        "max_people": 18,
+        "location": "80211"
+    },
+    {
+        "name": "Zenver Zoo",
+        "difficulty": "Easy",
+        "mobility_challenged_friendly": "yes",
+        "duration_minutes": 150,
+        "max_people": 15,
+        "location": "80211"
+    },
+    {
+        "name": "Swimming - Boulder Rec Center",
+        "difficulty": "Easy",
+        "mobility_challenged_friendly": "yes",
+        "duration_minutes": 90,
+        "max_people": 5,
+        "location": "80026"
+    }
+]

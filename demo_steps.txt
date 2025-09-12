@@ -1,0 +1,116 @@
+# Demo Steps
+
+Visit Scheduler assistant in the playground: https://platform.openai.com/assistants/edit?assistant=asst_yX2HaTfo4BsmmyfDglGqsAh2
+
+First message:
+The data provided is hypothetical but resembles realistic data to be able to schedule a week of actitivies. 
+Create a schedule for a week. Ensure daily summaries are at the bottom of each day. 
+
+
+
+
+Monday
+
+AM (8:30–11:30):
+
+    Denver Art Museum
+    Nancy, Bertha 🦽, Elena 🦽, Marcus, Patty, John (staff)
+    Bowlero Bowling
+    Tina, Maggie (staff)
+    Boulder Rec Center Swimming
+    Bob, Charles, Darryl, Leo (staff)
+
+Lunch (11:45–12:30):
+Golden Ponds (Denver Art Museum group)
+Boulder Rec Center (Bowlero and Swimming groups)
+
+PM (12:45–4:00):
+
+    Anythink Library
+    Bertha 🦽, Elena 🦽, Nancy, Patty, plus staff
+    Tye Dye Workshop
+    Bob, Charles, Darryl, John (staff)
+    Wings Over Rockies Museum
+    Marcus, Tina, Leo (staff)
+
+Tuesday
+
+AM (8:30–11:30):
+
+    Cooking Class
+    Bertha 🦽, Elena 🦽, Patty, Marcus, Maggie (staff)
+    Mountain Hike
+    Bob, Charles, Nancy, John (staff)
+    Boulder Rec Center Swimming
+    Darryl, Tina, Leo (staff)
+
+Lunch:
+Anythink Library Activities Room
+
+PM (12:45–4:00):
+
+null.
+Wednesday
+
+AM (8:30–11:30):
+
+    Anythink Library
+    Nancy, Patty, Charles, Bertha 🦽, Jenny (staff)
+    Tye Dye Workshop
+    Bob, Elena 🦽, Marcus, John (staff)
+    Bowlero Bowling
+    Darryl, Tina, Maggie (staff)
+
+Lunch:
+Boulder Rec Center
+
+PM (12:45–4:00):
+
+    Wings Over Rockies Museum
+    Bertha 🦽, Patty, Nancy, Jenny (staff)
+    Swimming
+    Bob, Charles, Leo (staff)
+
+Thursday
+
+AM (8:30–11:30):
+
+    Denver Art Museum
+    Nancy, Bertha 🦽, Elena 🦽, Marcus, Maggie (staff)
+    Mountain Hike
+    Bob, Charles, John (staff)
+    Tye Dye Workshop
+    Patty, Tina, Darryl, Leo (staff)
+
+Lunch:
+Golden Ponds
+
+PM (12:45–4:00):
+
+    Cooking Class
+    Elena 🦽, Bertha 🦽, Charles, Patty, John (staff)
+    Swimming
+    Marcus, Bob, Nancy, Maggie (staff)
+
+Friday
+
+AM (8:30–11:30):
+
+    Wings Over Rockies Museum
+    Bertha 🦽, Elena 🦽, Nancy, staff
+    Mountain Hike
+    Bob, Charles, Tina, staff
+    Bowlero Bowling
+    Nancy, Darryl, Leo (staff)
+
+Lunch:
+Waneka Lake
+
+PM (12:45–4:00):
+
+null.
+Key
+
+🦽 = Mobility challenged client
+Staff listed by name in parentheses
+Lunch grouping matches nearest AM location when possible

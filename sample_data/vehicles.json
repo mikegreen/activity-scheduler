@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Black Toyota Van",
+    "max_people": 5,
+    "mobility_challenged_friendly": "no"
+  },
+  {
+    "name": "Honda sedan",
+    "max_people": 2,
+    "mobility_challenged_friendly": "no"
+  },
+    {
+    "name": "Silver Toyota",
+    "max_people": 4,
+    "mobility_challenged_friendly": "yes"
+  },
+  {
+  "name": "White GMC 15-passenger van",
+  "max_people": 10,
+  "mobility_challenged_friendly": "yes"
+}
+]

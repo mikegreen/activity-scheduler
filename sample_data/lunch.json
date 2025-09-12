@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Waneka Lake",
+        "max_people": 8,
+        "location": "80304"
+    },
+    {
+        "name": "Golden Ponds",
+        "max_people": 6,
+        "location": "80303"
+    },
+    {
+        "name": "Anything Library Activities Room",
+        "max_people": 12,
+        "location": "80027"
+    },
+    {
+        "name": "Boulder Rec Center",
+        "max_people": 12,
+        "location": "80027"
+    }
+]
