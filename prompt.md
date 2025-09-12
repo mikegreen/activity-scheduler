@@ -14,9 +14,12 @@ The organization's staff members take these clients on activities.
 - But occasionally one of the staff will use their car, especially if an org vehicle is unavailable. 
 - The locations defined are zip codes in the Boulder-Colorado area.  These are important as you might need to calculate distances from clients and activities to understand how a schedule can be created and managed. 
 
+# Scheduling Rules
+
 - 1 client can only attend one activity in each AM/PM
 - Every client and staff member needs to have lunch
 - Prefer that the grouping for morning activities is the same as the lunch group
+- Mix up the DSP and client over the week - do not have one client with the same DSP for more than 2 days in a row
 - Clients have people they play well together with, and the opposite
 - Who and what activities a client likes/dislikes is in the personality_challenges
 - Home pickups of each client is required. And starts at 8:30am. AM activities should start no later to be done by 11:30am, in order to have lunch. 
