@@ -2,21 +2,31 @@
   {
     "name": "Black Toyota Van",
     "max_people": 5,
-    "mobility_challenged_friendly": "no"
+    "mobility_challenged_friendly": "no",
+    "current_status": "available"
   },
   {
     "name": "Honda sedan",
     "max_people": 2,
-    "mobility_challenged_friendly": "no"
+    "mobility_challenged_friendly": "no",
+    "current_status": "available"
   },
     {
     "name": "Silver Toyota",
     "max_people": 4,
-    "mobility_challenged_friendly": "yes"
+    "mobility_challenged_friendly": "yes",
+    "current_status": "available"
   },
   {
   "name": "White GMC 15-passenger van",
   "max_people": 10,
-  "mobility_challenged_friendly": "yes"
+  "mobility_challenged_friendly": "yes",
+  "current_status": "available"
+},
+{
+"name": "Grey GMC 12-passenger van",
+"max_people": 9,
+"mobility_challenged_friendly": "yes",
+"current_status": "unavailable"
 }
 ]

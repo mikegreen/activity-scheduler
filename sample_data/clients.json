@@ -4,62 +4,71 @@
         "mobility_challenged": "no",
         "outdoor_activities": "yes",
         "personality_challenges": "",
-        "location": "80305"
+        "location": "80305",
+        "scheduling_notes": ""
     },
     {
         "name": "Nancy",
         "mobility_challenged": "no",
         "outdoor_activities": "yes",
         "personality_challenges": "Staff Jenny and Nancy do not get along.",
-        "location": "80301"
+        "location": "80301",
+        "scheduling_notes": ""
     },
     {
         "name": "Bertha",
         "mobility_challenged": "yes",
         "outdoor_activities": "no",
         "personality_challenges": "Enjoys company of Bob. Does not like bowling.",
-        "location": "80026"
+        "location": "80026",
+        "scheduling_notes": ""
     },
     {
         "name": "Charles",
         "mobility_challenged": "no",
         "outdoor_activities": "yes",
         "personality_challenges": "",
-        "location": "80301"
+        "location": "80301",
+        "scheduling_notes": "Unavailable on Wednesdays"
     },
     {
         "name": "Elena",
         "mobility_challenged": "yes",
         "outdoor_activities": "no",
         "personality_challenges": "Gets along with everyone well.",
-        "location": "80302"
+        "location": "80302",
+        "scheduling_notes": ""
     },
     {
         "name": "Marcus",
         "mobility_challenged": "no",
         "outdoor_activities": "yes",
         "personality_challenges": "Only low impact outdoor activities.",
-        "location": "80304"
+        "location": "80304",
+        "scheduling_notes": "Unavailable on Fridays"
     },
     {
         "name": "Tina",
         "mobility_challenged": "no",
         "outdoor_activities": "no",
         "personality_challenges": "Does not get along with Bob or Charles.",
-        "location": "80303"
+        "location": "80303",
+        "scheduling_notes": ""
     },
     {
         "name": "Darryl",
         "mobility_challenged": "no",
         "outdoor_activities": "yes",
         "personality_challenges": "Can do group activities, but only with 1-2 others",
-        "location": "80301"
+        "location": "80301",
+        "scheduling_notes": ""
     },
     {
         "name": "Patty",
         "mobility_challenged": "no",
         "outdoor_activities": "no",
         "personality_challenges": "Gets along great with Charles. Cannot do activities past mid-afternoon.",
-        "location": "80026"
+        "location": "80026",
+        "scheduling_notes": ""
     }
 ]

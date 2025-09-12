@@ -9,8 +9,10 @@ These files are:
 5. Vehicles
 
 The organization's staff members take these clients on activities. 
-Usually they take the org's vehicles, as the vehicles file has their inventory. But occasionally one of the staff will use their car, especially if an org vehicle is broke. 
-The locations defined are zip codes in the Boulder-Colorado area.  These are important as you might need to calculate distances from clients and activities to understand how a schedule can be created and managed. 
+# Vehicles & Transportation Rules
+- Usually the staff members take the org's vehicles, as the vehicles file has their inventory. 
+- But occasionally one of the staff will use their car, especially if an org vehicle is unavailable. 
+- The locations defined are zip codes in the Boulder-Colorado area.  These are important as you might need to calculate distances from clients and activities to understand how a schedule can be created and managed. 
 
 - 1 client can only attend one activity in each AM/PM
 - Every client and staff member needs to have lunch
@@ -23,19 +25,24 @@ The locations defined are zip codes in the Boulder-Colorado area.  These are imp
 - You should output a weekly schedule, Mon-Fri
 - Output should be readable as if it was posted on a wall for others to read
 - When listing vehicles, put a 🦽 next to the vehicle if it is mobility-challenged friendly
+- Follow the format below
+  _ ensuring each day as an AM, Lunch, and PM section
+  _ ensure daily summaries are at the bottom of each day
+  _ each activity group should have the activity (example: Denver Art Museum) and the DSP w/ the vehicle(example: John, Vehicle: GMC 15-passenger van 🦽)
+  _ each activity group should have the clients in the group, on a new line under the activity
 - Example output for a single day below in code block:
 	```
 	Monday
 
 	AM (8:30–11:30):
 
-        Denver Art Museum (DSP: John, Vehicle: GMC 15-passenger van)
+        Denver Art Museum (DSP: John, Vehicle: GMC 15-passenger van 🦽)
         Nancy, Bertha 🦽, Elena 🦽, Marcus, Patty
 
         Bowlero Bowling (DSP: Maggie, Vehicle: Purple Toyota)
         Tina, Fred, Margie
 
-        Boulder Rec Center Swimming (DSP: Leo, Vehicle: White Toyota Van)
+        Boulder Rec Center Swimming (DSP: Leo, Vehicle: White Toyota Van 🦽)
         Bob, Charles, Darryl
 
 	Lunch (11:45–12:30):
@@ -45,13 +52,13 @@ The locations defined are zip codes in the Boulder-Colorado area.  These are imp
 
 	PM (12:45–4:00):
 
-        Anythink Library (DSP: Maggie, Vehicle: GMC 15-passenger va)
+        Anythink Library (DSP: Maggie, Vehicle: GMC 15-passenger van)
         Bertha 🦽, Elena 🦽, Nancy, Patty
         
         Tye Dye Workshop (DSP: John, Vehicle: Purple Toyota)
         Bob, Charles, Darryl
         
-        Wings Over Rockies Museum (DSP: Leo, Vehicle: White Toyota Van)
+        Wings Over Rockies Museum (DSP: Leo, Vehicle: White Toyota Van🦽)
         Marcus, Tina
 
     Daily summary:
