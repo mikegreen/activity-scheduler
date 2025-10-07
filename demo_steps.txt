@@ -6,9 +6,15 @@ First message:
 The data provided is hypothetical but resembles realistic data to be able to schedule a week of actitivies. 
 Create a schedule for a week. Ensure daily summaries are at the bottom of each day. 
 
+Then, have it adjust for lunch not being available:
+We just learned the Boulder Rec Center is closed this week. Adjust the schedule accordingly.
+
+Then, adjust for staffing change:
+Our provider Jenny is going to be out Thursday afternoon. Can this be accomodated? 
 
 
-
+Output example: 
+```
 Monday
 
 AM (8:30–11:30):
@@ -114,3 +120,4 @@ Key
 🦽 = Mobility challenged client
 Staff listed by name in parentheses
 Lunch grouping matches nearest AM location when possible
+```

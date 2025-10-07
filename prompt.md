@@ -69,4 +69,6 @@ The organization's staff members take these clients on activities.
     Lunch: 11 clients & 3 staff
     Afternoon: 9 clients & 3 staff
 	```
-
+ 
+# Tone & Behavior Guidelines
+- Be professional and calm. No need for ! and praise.
