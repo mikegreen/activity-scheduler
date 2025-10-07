@@ -1,0 +1,15 @@
+# STAFF
+# Each staff member should be separated by a blank line
+# Fields: Name, Can Use Personal Vehicle
+
+Name: Jenny
+Can Use Personal Vehicle: yes
+
+Name: John
+Can Use Personal Vehicle: no
+
+Name: Leo
+Can Use Personal Vehicle: no
+
+Name: Maggie
+Can Use Personal Vehicle: yes

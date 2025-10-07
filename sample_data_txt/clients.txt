@@ -1,0 +1,66 @@
+# CLIENTS
+# Each client should be separated by a blank line
+# Fields: Name, Mobility Challenged, Outdoor Activities, Personality Challenges, Location (zip code), Scheduling Notes
+
+Name: Bob
+Mobility Challenged: no
+Outdoor Activities: yes
+Personality Challenges: 
+Location: 80305
+Scheduling Notes: 
+
+Name: Nancy
+Mobility Challenged: no
+Outdoor Activities: yes
+Personality Challenges: Staff Jenny and Nancy do not get along.
+Location: 80301
+Scheduling Notes: 
+
+Name: Bertha
+Mobility Challenged: yes
+Outdoor Activities: no
+Personality Challenges: Enjoys company of Bob. Does not like bowling.
+Location: 80026
+Scheduling Notes: 
+
+Name: Charles
+Mobility Challenged: no
+Outdoor Activities: yes
+Personality Challenges: 
+Location: 80301
+Scheduling Notes: Unavailable on Wednesdays
+
+Name: Elena
+Mobility Challenged: yes
+Outdoor Activities: no
+Personality Challenges: Gets along with everyone well.
+Location: 80302
+Scheduling Notes: 
+
+Name: Marcus
+Mobility Challenged: no
+Outdoor Activities: yes
+Personality Challenges: Only low impact outdoor activities.
+Location: 80304
+Scheduling Notes: Unavailable on Fridays
+
+Name: Tina
+Mobility Challenged: no
+Outdoor Activities: no
+Personality Challenges: Does not get along with Bob or Charles.
+Location: 80303
+Scheduling Notes: 
+
+Name: Darryl
+Mobility Challenged: no
+Outdoor Activities: yes
+Personality Challenges: Can do group activities, but only with 1-2 others
+Location: 80301
+Scheduling Notes: 
+
+Name: Patty
+Mobility Challenged: no
+Outdoor Activities: no
+Personality Challenges: Gets along great with Charles. Cannot do activities past mid-afternoon.
+Location: 80026
+Scheduling Notes: 

@@ -1,0 +1,28 @@
+# VEHICLES
+# Each vehicle should be separated by a blank line
+# Fields: Name, Max People, Mobility Challenged Friendly, Current Status
+
+Name: Black Toyota Van
+Max People: 5
+Mobility Challenged Friendly: no
+Current Status: available
+
+Name: Honda sedan
+Max People: 2
+Mobility Challenged Friendly: no
+Current Status: available
+
+Name: Silver Toyota
+Max People: 4
+Mobility Challenged Friendly: yes
+Current Status: available
+
+Name: White GMC 15-passenger van
+Max People: 10
+Mobility Challenged Friendly: yes
+Current Status: available
+
+Name: Grey GMC 12-passenger van
+Max People: 9
+Mobility Challenged Friendly: yes
+Current Status: unavailable

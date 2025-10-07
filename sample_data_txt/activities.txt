@@ -1,0 +1,66 @@
+# ACTIVITIES
+# Each activity should be separated by a blank line
+# Fields: Name, Difficulty, Mobility Challenged Friendly, Duration (minutes), Max People, Location (zip code)
+
+Name: Mountain Hike
+Difficulty: Hard
+Mobility Challenged Friendly: no
+Duration (minutes): 180
+Max People: 3
+Location: 80304
+
+Name: Denver Art Museum Museum Visit
+Difficulty: Easy
+Mobility Challenged Friendly: yes
+Duration (minutes): 120
+Max People: 6
+Location: 80303
+
+Name: Cooking Class
+Difficulty: Medium
+Mobility Challenged Friendly: yes
+Duration (minutes): 120
+Max People: 4
+Location: 80027
+
+Name: Bowlero Bowling
+Difficulty: medium
+Mobility Challenged Friendly: yes
+Duration (minutes): 90
+Max People: 4
+Location: 80026
+
+Name: Tye dye
+Difficulty: Easy
+Mobility Challenged Friendly: yes
+Duration (minutes): 120
+Max People: 4
+Location: 80027
+
+Name: Anythink Library
+Difficulty: Easy
+Mobility Challenged Friendly: yes
+Duration (minutes): 120
+Max People: 6
+Location: 80026
+
+Name: Wings Over the Rockies Museum
+Difficulty: Easy
+Mobility Challenged Friendly: yes
+Duration (minutes): 120
+Max People: 18
+Location: 80211
+
+Name: Zenver Zoo
+Difficulty: Easy
+Mobility Challenged Friendly: yes
+Duration (minutes): 150
+Max People: 15
+Location: 80211
+
+Name: Swimming - Boulder Rec Center
+Difficulty: Easy
+Mobility Challenged Friendly: yes
+Duration (minutes): 90
+Max People: 5
+Location: 80026

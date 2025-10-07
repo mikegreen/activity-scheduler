@@ -1,0 +1,19 @@
+# LUNCH LOCATIONS
+# Each lunch location should be separated by a blank line
+# Fields: Name, Max People, Location (zip code)
+
+Name: Waneka Lake
+Max People: 8
+Location: 80304
+
+Name: Golden Ponds
+Max People: 6
+Location: 80303
+
+Name: Anything Library Activities Room
+Max People: 12
+Location: 80027
+
+Name: Boulder Rec Center
+Max People: 12
+Location: 80027
